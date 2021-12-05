@@ -37,6 +37,7 @@ I am a student of the systems analysis and development course at the Federal Ins
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width=50x height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=50x height=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width=50x height=50px/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg width=50x height=50px" />
 </p>
 
  ## Total de visitas no meu perfil :detective: <br>
