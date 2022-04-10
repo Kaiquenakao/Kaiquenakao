@@ -23,7 +23,7 @@ I am a student of the systems analysis and development course at the Federal Ins
 
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rains" style="max-width:100%;" width=50x height=50px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="rains" style="max-width:100%;" width=50x height=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="rains" style="max-width:100%;" width=50x height=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="rains" style="max-width:100%;" width=50x height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50x height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="rains" style="max-width:100%;" width=50x height=50px />
