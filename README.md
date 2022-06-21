@@ -18,7 +18,7 @@ I am a student of the systems analysis and development course at the Federal Ins
 
 ## Social Networks
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="40" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="100" height="40">](https://www.instagram.com/nakaokaique/) <a href="https://stackexchange.com/users/22404940"><img src="https://stackexchange.com/users/flair/22404940.png" width="170" height="40" alt="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="50" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="100" height="50">](https://www.instagram.com/nakaokaique/) <a href="https://stackexchange.com/users/22404940"><img src="https://stackexchange.com/users/flair/22404940.png" width="150" height="50" alt="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
 ## My skills
 
 <p float="left">
