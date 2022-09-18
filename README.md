@@ -1,3 +1,4 @@
+
 <h1 align="left">
     Hello World
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -15,10 +16,6 @@ I am a student of the systems analysis and development course at the Federal Ins
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiquenakao&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquenakao&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-## Social Networks
-
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="50" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="120" height="50">](https://www.instagram.com/nakaokaique/) <a href="https://stackexchange.com/users/22404940"><img src="https://stackexchange.com/users/flair/22404940.png" width="170" height="50" alt="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
 ## My skills
 
 <p float="left">
@@ -40,11 +37,28 @@ I am a student of the systems analysis and development course at the Federal Ins
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=35 height=35/>
 </p>
 
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/kaiquenakao/count.svg" />
+ ## Budgets
+ <p float="left">
+ <a href="https://www.credly.com/badges/ce13b98c-1206-4f47-9022-1a30783ece84">
+ <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=80> 
+ </a>
+ <a href="https://skillshop.exceedlms.com/student/award/J67nRYYhTTCvBNzjdq7XWhL8">
+ <img src="https://storage.googleapis.com/exceedlms-external-uploads-production/uploads/certifications/badges/541/large/analytics_master_achievement.png?GoogleAccessId=GOOG1EIO7LXRUFV35UXSWKJ3AWMYHZUVNMYIAMGSBIFYEF2AMYYAY4Y4Y5PKA&Signature=aMRWtGfVKYJvkP%2B0ABsNc1h22CQ%3D&Expires=1663508291" width=80 height=80>
+ </a>
+ </p>
+ 
+ ## Stack Overflow
+  <p float="left">
+ <a href="https://pt.stackoverflow.com/users/251976/kaique-nakao?tab=profile"><img src="https://stackexchange.com/users/flair/22404940.png" width="200" height="60" alt="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
+ <a href="https://stackoverflow.com/users/16614800/kaique-nakao"><img src="https://stackoverflow.com/users/flair/16614800.png" width="200" height="60" alt="profile for Kaique Nakao at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kaique Nakao at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  </p>
 
 
+## Social Networks
 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="110" height="60" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="110" height="60">](https://www.instagram.com/nakaokaique/) 
 
+ ## Visits<br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/kaiquenakao/count.svg" />
+ </p>
