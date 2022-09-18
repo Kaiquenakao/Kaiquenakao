@@ -1,4 +1,5 @@
 
+
 <h1 align="left">
     Hello World
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -34,29 +35,29 @@ I am a student of the systems analysis and development course at the Federal Ins
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width=35 height=35 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=35 height=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width=35 height=35/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=35 height=35/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=35 height=75/>
 </p>
 
  ## Budgets
  <p float="left">
  <a href="https://www.credly.com/badges/ce13b98c-1206-4f47-9022-1a30783ece84">
- <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=80> 
+ <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=75> 
  </a>
  <a href="https://skillshop.exceedlms.com/student/award/J67nRYYhTTCvBNzjdq7XWhL8">
- <img src="https://storage.googleapis.com/exceedlms-external-uploads-production/uploads/certifications/badges/541/large/analytics_master_achievement.png?GoogleAccessId=GOOG1EIO7LXRUFV35UXSWKJ3AWMYHZUVNMYIAMGSBIFYEF2AMYYAY4Y4Y5PKA&Signature=aMRWtGfVKYJvkP%2B0ABsNc1h22CQ%3D&Expires=1663508291" width=80 height=80>
+ <img src="https://storage.googleapis.com/exceedlms-external-uploads-production/uploads/certifications/badges/541/large/analytics_master_achievement.png?GoogleAccessId=GOOG1EIO7LXRUFV35UXSWKJ3AWMYHZUVNMYIAMGSBIFYEF2AMYYAY4Y4Y5PKA&Signature=aMRWtGfVKYJvkP%2B0ABsNc1h22CQ%3D&Expires=1663508291" width=80 height=75>
  </a>
  </p>
  
  ## Stack Overflow
   <p float="left">
- <a href="https://pt.stackoverflow.com/users/251976/kaique-nakao?tab=profile"><img src="https://stackexchange.com/users/flair/22404940.png" width="200" height="60" alt="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
- <a href="https://stackoverflow.com/users/16614800/kaique-nakao"><img src="https://stackoverflow.com/users/flair/16614800.png" width="200" height="60" alt="profile for Kaique Nakao at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kaique Nakao at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+ <a href="https://pt.stackoverflow.com/users/251976/kaique-nakao?tab=profile"><img src="https://stackexchange.com/users/flair/22404940.png" width="170" height="55" alt="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
+ <a href="https://stackoverflow.com/users/16614800/kaique-nakao"><img src="https://stackoverflow.com/users/flair/16614800.png" width="170" height="55" alt="profile for Kaique Nakao at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kaique Nakao at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  </p>
 
 
 ## Social Networks
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="110" height="60" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="110" height="60">](https://www.instagram.com/nakaokaique/) 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="170" height="55" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="170" height="55">](https://www.instagram.com/nakaokaique/) 
 
  ## Visits<br>
  <p align="center"> 
