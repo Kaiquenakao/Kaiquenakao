@@ -35,7 +35,7 @@ I am a student of the systems analysis and development course at the Federal Ins
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width=35 height=35 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=35 height=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width=35 height=35/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=35 height=75/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=35 height=35/>
 </p>
 
  ## Budgets
