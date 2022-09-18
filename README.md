@@ -44,7 +44,7 @@ I am a student of the systems analysis and development course at the Federal Ins
  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=75> 
  </a>
  <a href="https://skillshop.exceedlms.com/student/award/J67nRYYhTTCvBNzjdq7XWhL8">
- <img src="https://storage.googleapis.com/exceedlms-external-uploads-production/uploads/certifications/badges/541/large/analytics_master_achievement.png?GoogleAccessId=GOOG1EIO7LXRUFV35UXSWKJ3AWMYHZUVNMYIAMGSBIFYEF2AMYYAY4Y4Y5PKA&Signature=aMRWtGfVKYJvkP%2B0ABsNc1h22CQ%3D&Expires=1663508291" width=80 height=75>
+ <img src="https://marketing.neulinks.com/img/analytics_master_achievement.png" width=80 height=75>
  </a>
  </p>
  
