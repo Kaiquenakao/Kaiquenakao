@@ -39,11 +39,14 @@ I am a student of the systems analysis and development course at the Federal Ins
 
  ## Badges
  <p float="left">
+  <a href="https://skillshop.exceedlms.com/student/award/J67nRYYhTTCvBNzjdq7XWhL8">
+ <img src="https://marketing.neulinks.com/img/analytics_master_achievement.png" width=80 height=75>
+ </a>
  <a href="https://www.credly.com/badges/ce13b98c-1206-4f47-9022-1a30783ece84">
  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=75> 
  </a>
- <a href="https://skillshop.exceedlms.com/student/award/J67nRYYhTTCvBNzjdq7XWhL8">
- <img src="https://marketing.neulinks.com/img/analytics_master_achievement.png" width=80 height=75>
+  <a href="https://www.credly.com/badges/63e9b87a-eace-46e4-9c38-e5547a5d9721">
+ <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=80 height=75> 
  </a>
  </p>
  
