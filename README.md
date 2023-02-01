@@ -57,7 +57,7 @@ I am a student of the systems analysis and development course at the Federal Ins
  </p>
 
 
-## Social Networks
+## Social Network
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="170" height="55" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) 
 
