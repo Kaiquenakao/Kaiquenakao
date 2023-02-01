@@ -59,7 +59,7 @@ I am a student of the systems analysis and development course at the Federal Ins
 
 ## Social Networks
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="170" height="55" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="170" height="55">](https://www.instagram.com/nakaokaique/) 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="170" height="55" />](https://www.linkedin.com/in/kaique-nakao-5b25151ba/) 
 
  ## Visits<br>
  <p align="center"> 
