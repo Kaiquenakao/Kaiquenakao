@@ -48,6 +48,9 @@ I am a student of the systems analysis and development course at the Federal Ins
   <a href="https://www.credly.com/badges/63e9b87a-eace-46e4-9c38-e5547a5d9721">
  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=80 height=75> 
  </a>
+  <a href="https://www.credly.com/badges/1c0a2b0c-06ab-46e4-ad6f-758618f1475c">
+ <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=80 height=75> 
+ </a>
  </p>
  
  ## Stack Overflow
