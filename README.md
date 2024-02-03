@@ -54,8 +54,11 @@ I am a student of the systems analysis and development course at the Federal Ins
   <a href="https://www.credly.com/badges/e5481a65-9d91-436e-ba99-2a79955ad81f">
  <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width=80 height=75> 
  </a>
+  <a href="https://www.credly.com/badges/605ac88b-1bd6-477f-aa66-18de6f305bca">
+ <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width=80 height=75> 
+ </a>
  </p>
- 
+
  ## Stack Overflow
   <p float="left">
  <a href="https://pt.stackoverflow.com/users/251976/kaique-nakao?tab=profile"><img src="https://stackexchange.com/users/flair/22404940.png" width="170" height="55" alt="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Kaique Nakao no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
