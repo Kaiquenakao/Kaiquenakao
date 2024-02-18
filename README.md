@@ -14,7 +14,7 @@ I am a student of the systems analysis and development course at the Federal Ins
 - 🤝 I like to help the Stackover Flow community.
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiquenakao&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquenakao&layout=compact&theme=highcontrast&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiquenakao&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquenakao&layout=compact&theme=monokai&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## My skills
