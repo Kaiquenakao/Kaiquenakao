@@ -60,12 +60,16 @@ I am a student of the systems analysis and development course at the Federal Ins
   <a href="https://www.credly.com/badges/7e88df51-2ede-425f-97be-92e2d9597c44">
  <img src="https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width=80 height=75> 
  </a>
+   <a href="https://www.credly.com/badges/3c599f4f-68a7-4390-ac1d-190d03eb76b7">
+ <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width=80 height=75> 
   <a href="https://www.credly.com/badges/e5481a65-9d91-436e-ba99-2a79955ad81f">
  <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width=80 height=75> 
  </a>
   <a href="https://www.credly.com/badges/605ac88b-1bd6-477f-aa66-18de6f305bca">
  <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width=80 height=75> 
  </a>
+ </a>
+
  </p>
 
  ## Stack Overflow
