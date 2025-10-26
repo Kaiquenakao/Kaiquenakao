@@ -74,6 +74,10 @@ I am a student of the systems analysis and development course at the Federal Ins
   <a href="https://www.credly.com/badges/1f864ff4-b95e-4ab5-8c34-9f9ff1738b5a">
  <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width=80 height=75> 
  </a>
+ </a>
+  <a href="https://www.credly.com/badges/08805de7-ec92-4707-a55c-6625808d822e">
+ <img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width=80 height=75> 
+ </a>
  </p>
 
 ## Emblems
