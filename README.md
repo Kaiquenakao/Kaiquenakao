@@ -8,10 +8,8 @@
          width="45" />
 </h1>
 
-I am a student of the systems analysis and development course at the Federal Institute of Education, Science and Technology of São Paulo.
 - ❤️   I love developing projects.
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using Python.
-- 🤝 I like to help the Stackover Flow community.
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiquenakao&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquenakao&layout=compact&theme=monokai&hide_border=true" /></a> |
