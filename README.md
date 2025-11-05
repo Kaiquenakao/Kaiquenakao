@@ -95,7 +95,3 @@
  </p>
 
 
- ## Visits<br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/kaiquenakao/count.svg" />
- </p>
