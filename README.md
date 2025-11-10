@@ -36,6 +36,7 @@
 </p>
 
  ## Badges
+ ### AWS
  <p float="left">
   <a href="https://www.credly.com/badges/6f3328ce-9ed8-44d2-a961-5723d1d71128">
  <img src="https://images.credly.com/size/340x340/images/144c5ead-dd3c-4a94-a92f-c1b0fbe35323/image.png" width=80 height=75>
@@ -78,7 +79,7 @@
  </a>
  </p>
 
-## Emblems
+### Emblems
 <p float="left">
     <a href="https://www.credly.com/badges/187d8679-638a-4b33-8c80-9951018f822d">
     <img src="https://images.credly.com/size/680x680/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width=80 height=75> 
