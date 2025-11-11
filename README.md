@@ -9,7 +9,7 @@
 </h1>
 
 - ❤️   I love developing projects.
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using Python.
+- 🌱 I’m currently learning Data Enginer and LLMOps
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiquenakao&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquenakao&layout=compact&theme=monokai&hide_border=true" /></a> |
