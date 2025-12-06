@@ -76,6 +76,14 @@
  </a>
  </p>
 
+### Azure
+ <p float="left">
+  <a href="https://learn.microsoft.com/pt-br/users/kaiquenakao-9495/credentials/1c362447d5368788">
+ <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width=65 height=60> 
+ </a>
+ </p>
+
+
 ### Emblems
 <p float="left">
     <a href="https://www.credly.com/badges/187d8679-638a-4b33-8c80-9951018f822d">
