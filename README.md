@@ -35,9 +35,6 @@
  ## Badges
  ### AWS
  <p float="left">
-  <a href="https://www.credly.com/badges/6f3328ce-9ed8-44d2-a961-5723d1d71128">
- <img src="https://images.credly.com/size/340x340/images/144c5ead-dd3c-4a94-a92f-c1b0fbe35323/image.png" width=65 height=60>
- </a>
   <a href="https://www.credly.com/badges/bf11e0a0-f55a-4f8d-bc17-9ead4403e567">
  <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width=65 height=60>
  </a>
@@ -92,6 +89,14 @@
     <a href="https://www.credly.com/badges/06b0ef0a-eb28-4e28-bab9-aea3b67aab5a">
     <img src="https://images.credly.com/size/680x680/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png" width=65 height=60> 
     </a>
+</p>
+
+
+ ### Others
+<p float="left">
+  <a href="https://www.credly.com/badges/6f3328ce-9ed8-44d2-a961-5723d1d71128">
+ <img src="https://images.credly.com/size/340x340/images/144c5ead-dd3c-4a94-a92f-c1b0fbe35323/image.png" width=65 height=60>
+ </a>
 </p>
 
  ## Stack Overflow
