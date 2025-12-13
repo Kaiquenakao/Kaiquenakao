@@ -32,6 +32,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=35 height=35/>
 </p>
 
+## Status
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiquenakao&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquenakao&layout=compact&theme=monokai&hide_border=true" /></a> |
+| ------------- | ------------- |
  ## Badges
  ### AWS
  <p float="left">
