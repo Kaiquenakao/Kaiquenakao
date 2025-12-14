@@ -77,6 +77,14 @@
  </a>
  </p>
 
+### Databricks
+
+ <p float="left">
+  <a href="https://credentials.databricks.com/9e659b99-f559-4296-b42b-e06851ef2488#acc.y8Ax4eSV">
+ <img src="https://templates.images.credential.net/17613128948123067507712718351377.png" width=50 height=55> 
+ </a>
+ </p>
+
 ### Azure
  <p float="left">
   <a href="https://learn.microsoft.com/pt-br/users/kaiquenakao-9495/credentials/1c362447d5368788">
