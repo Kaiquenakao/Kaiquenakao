@@ -8,8 +8,8 @@
          width="45" />
 </h1>
 
-- ❤️   I love developing projects.
-- 🌱 I’m currently learning Data Enginer and LLMOps
+- ❤️ I love developing projects.
+- 🌱 I’m currently studying Software Engineering (MBA – USP/ESALQ) and learning Data Engineering and LLMOps.
 
 
 ## My skills
