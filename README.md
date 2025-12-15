@@ -92,6 +92,12 @@
  </a>
  </p>
 
+### GCP
+ <p float="left">
+  <a href="https://www.credly.com/badges/1b08f632-4781-4616-b3ba-f536003ae99f">
+ <img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width=65 height=60> 
+ </a>
+ </p>
 
 ### Emblems
 <p float="left">
