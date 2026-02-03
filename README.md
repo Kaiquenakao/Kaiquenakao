@@ -12,7 +12,6 @@
 - 🌱 I’m currently studying Software Engineering (MBA – USP/ESALQ) and learning Data Engineering and LLMOps.
 - 🥰 I enjoy providing thoughtful and constructive feedback
 
-
 ## My skills
 
 <p float="left">
