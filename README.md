@@ -58,6 +58,28 @@ kaique = {
 
 ---
 
+### [Agent Gallery](https://kaiquenakao.github.io/portfolio/projetos/agent_gallery.html)
+> Serverless platform to **register, discover, and chat with custom AI agents** — all in one place. Built on AWS (Lambda + API Gateway + DynamoDB) with Terraform IaC and GPT-4.1 for agent responses.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+### [Prompt Catalog](https://kaiquenakao.github.io/portfolio/projetos/prompt_catalog.html)
+> Internal platform for **versioning, deploying, and monitoring LLM prompts** in production. Treats prompts as software artifacts: versioned, explicitly deployed, logged per execution, and fully auditable.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
 ## Tech Stack
 
 <div align="center">
